@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Experience
 - **June 2021 - Present, *Data Science Intern* @ [Illumina](https://www.illumina.com)**
   - Extracting relevant information from biomedical texts through NLP techniques to facilitate the clinical trial enrollment pipeline.
 
