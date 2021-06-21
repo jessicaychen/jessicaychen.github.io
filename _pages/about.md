@@ -8,33 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior at UCLA studying Computational & Systems Biology (Data Science Concentration). My research interests lie in biomedical informatics and deep learning. I have previously conducted research in [Dr. Joseph Demer's](https://www.uclahealth.org/joseph-demer) Bioengineering Lab...
+I am currently a senior at UCLA studying Computational & Systems Biology (Data Science Concentration). My research interests lie broadly in biomedical informatics and deep learning. I have previously conducted research in two bioengineering labs where I became closely familiar with clinical processes and medical imaging studies. After a year of doing computer vision research at NASA JPL exploring methods to better detect vehicles to improve first responder safety, I am currently doing NLP research with biomedical corpuses for the summer at Illumina. I am also the design director for the Society of Women Engineers @ UCLA, where I advocate for accessibility and cohesiveness in branding. If I'm not working, I'm probably on a mountain or at IKEA.
 
-## Experience
-- ***Data Science Intern* @ [Illumina](https://www.illumina.com) (June 2021 - Present)**
-  - Extracting relevant information from biomedical texts through NLP techniques to facilitate the clinical trial enrollment pipeline.
-
-- ***Research Intern* @ [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov) (November 2020 - May 2021)**
-  - Worked on object detection using deep learning with CARLA, YOLO/SSD for advanced driver assistance systems for first responders.
-  - Conducted feasibility tests with different datasets and models to improve performance.
-
-- ***Undergraduate Researcher* @ [Advanced Robotic Eye Surgery Lab](https://www.uclahealth.org/eye/center-for-advanced-robotic-eye-surgery) (August 2019 - November 2020)**
-  - Implemented traditional image segmentation algorithms in MATLAB to process OCT scans and segment different layers of the retina.
-
-- ***Undergraduate Researcher* @ [Ocular Motility Lab](https://www.uclahealth.org/joseph-demer) (October 2018 - September 2020)**
-  - Implemented a U-Net using ​Tensorflow​ and ​Keras​ to automatically segment OCT blood vessels to help facilitate the identification of optic neuropathy biomarkers.
-  - Collaborated with graduate students, international clinical fellows, and expert physicians on research projects resulting in poster presentations and 5+ publications, including 2 first-authored papers.
-  - Presented research at the 2019 UCLA Undergraduate Research Poster day and was accepted into the annual Association for Research in Vision and Ophthalmology (ARVO) conference.
-
-## Grants & Awards
-  * 2021 - Society of Women Engineers Undergraduate Scholarship Recipient
-  * 2020 - Society of Women Engineers Undergraduate Scholarship Recipient
-  * 2020 - Knights Templar Eye Foundation Travel Grant
-  * 2018 - UCLA Regents Scholar
-  * 2018 - UCLA Achievement Scholarship Recipient
-  * 2018 - Valedictorian, Prospect High School
-  * 2018 - National AP Scholar
-  * 2017 - National Merit Finalist
-  * 2017 - Scholastic Art & Writing Awards: Gold Key (Drawing and Illustration)
+Feel free to reach me at [jessicayqchen][dot][ucla][dot][edu]. Click here to view my CV.
 
 
