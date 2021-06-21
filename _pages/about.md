@@ -13,7 +13,7 @@ I am currently a senior at UCLA studying Computational & Systems Biology (Data S
 
 ## Experience
 - June 2021 - August 2021, Data Science Intern @ [Illumina] (https://www.illumina.com)
-  - Working on extracting relevant information from biomedical texts through NLP techniques to facilitate the clinical trial enrollment pipeline
+  - Working on extracting relevant information from biomedical texts through NLP techniques to facilitate the clinical trial enrollment pipeline.
 
 
 ## Grants & Awards
