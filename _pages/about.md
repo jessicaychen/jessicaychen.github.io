@@ -10,12 +10,12 @@ redirect_from:
 
 I am currently a senior at UCLA studying Computational & Systems Biology (Data Science Concentration). My research interests lie in biomedical informatics and deep learning. I have previously conducted research in [Dr. Joseph Demer's] (https://www.uclahealth.org/joseph-demer) Bioengineering Lab...
 
-Experience
-======
+## Experience
+<!-- ====== -->
 - 
 
-Awards
-======
+## Awards
+<!-- ====== -->
 1. 2021 - Society of Women Engineers Undergraduate Scholarship Recipient
 1. 2020 - Society of Women Engineers Undergraduate Scholarship Recipient
 1. 2020 - Knights Templar Eye Foundation Travel Grant
