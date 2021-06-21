@@ -12,7 +12,7 @@ redirect_from:
 - ***Data Science Intern* @ [Illumina](https://www.illumina.com) (June 2021 - Present)**
   - Extracting relevant information from biomedical texts through NLP techniques to facilitate the clinical trial enrollment pipeline.
 
-- ***Research Intern* @ [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov)(November 2020 - May 2021)**
+- ***Research Intern* @ [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov) (November 2020 - May 2021)**
   - Worked on object detection using deep learning with CARLA, YOLO/SSD for advanced driver assistance systems for first responders.
   - Conducted feasibility tests with different datasets and models to improve performance.
 

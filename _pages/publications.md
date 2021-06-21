@@ -21,7 +21,7 @@ author_profile: true
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0002939419304180">Age-dependent Deformation of the Optic Nerve Head and Peripapillary Retina by Horizontal Duction</a>
 <br>
-Le, A, <b>Chen J</b>, De Andrade L, Goseki T, Demer JL.
+Le, A, <b>Chen JY</b>, De Andrade L, Goseki T, Demer JL.
 <br>
 <i>AJO 2020</i>
 <br>
