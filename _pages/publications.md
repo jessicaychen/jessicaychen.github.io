@@ -5,39 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<a href="https://iovs.arvojournals.org/article.aspx?articleid=2769367&resultClick=1">Peripapillary Atrophy (PPA) Indicates Optic Disc Stiffening in Primary Open Angle Glaucoma (POAG) without Statistically Elevated Intraocular Pressure (IOP)</a>
+<br>
+<b>Chen JY</b>, Le A, Giaconi JA, Kouros N, Law SK, Bonelli L, Coleman A, Caprioli J, Demer JL.
+<br>
+<i>IOVS ARVO 2020</i>
+<br>
 
-{% include base_path %}
+<a href="https://iovs.arvojournals.org/article.aspx?articleid=2766247&resultClick=1">Orbital Fat Volume After Treatment with Topical Prostaglandin Agonists</a>
+<br>
+<b>Chen JY</b>, Le A, Giaconi JA, Kouros N, Law SK, Bonelli L, Coleman A, Caprioli J, Demer JL.
+<br>
+<i>IOVS 2020</i>
+<br>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<a href="https://www.sciencedirect.com/science/article/pii/S0002939419304180">Age-dependent Deformation of the Optic Nerve Head and Peripapillary Retina by Horizontal Duction</a>
+<br>
+Le, A, <b>Chen J</b>, De Andrade L, Goseki T, Demer JL.
+<br>
+<i>AJO 2020</i>
+<br>
 
 
-Select Publications
-===
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction</a>
+<a href="https://iovs.arvojournals.org/article.aspx?articleid=2753272&resultClick=1">Compression of the Choroid by Horizontal Duction</a>
 <br>
-<b>Stephen R. Pfohl</b>, Agata Foryciarz, Nigam H. Shah.
+<b>Chen JY</b>, Le A, Giaconi JA, Kouros N, Law SK, Bonelli L, Coleman A, Caprioli J, Demer JL.
 <br>
-<i>Journal of Biomedical Informatics, 113:103621, 2021</i>
+<i>IOVS 2019</i>
 <br>
-\[<a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">paper</a>\] \[<a href="https://arxiv.org/abs/2007.10306">pre-print</a>\] \[<a href="https://github.com/som-shahlab/fairness_benchmark">code</a>\]
 
-<a href="http://proceedings.mlr.press/v106/pfohl19a.html">Counterfactual Reasoning for Fair Clinical Risk Prediction</a>
-<br>
-<b>Stephen R. Pfohl</b>, Tony Duan, Daisy Yi Ding, Nigam H. Shah.
-<br>
-<i>Proceedings of the 4th Machine Learning for Healthcare Conference, PMLR 106:325-358, 2019</i>
-<br>
-\[<a href="http://proceedings.mlr.press/v106/pfohl19a.html">abstract</a>\] \[<a href="http://proceedings.mlr.press/v106/pfohl19a/pfohl19a.pdf">pdf</a>\]
-
-<a href="https://dl.acm.org/doi/abs/10.1145/3306618.3314278">Creating fair models of atherosclerotic cardiovascular disease risk</a>
-<br>
-<b>Stephen Pfohl</b>, Ben Marafino, Adrien Coulet, Fatima Rodriguez, Latha Palaniappan, Nigam H Shah.
-<br>
-<i>Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, 2019</i>
-<br>
-\[<a href="https://arxiv.org/abs/1809.04663">arxiv post-print with erratum</a>\] \[<a href="https://arxiv.org/pdf/1809.04663.pdf">pdf</a>\] \[<a href="https://dl.acm.org/doi/abs/10.1145/3306618.3314278">paper</a>\]
