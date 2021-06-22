@@ -13,7 +13,7 @@ I grew up drawing, and over the years, my love for capturing the essence of life
 - [Photography](https://photos.app.goo.gl/tAaBJyhz9UHkRSW79)
 - [Drawing](https://www.instagram.com/jessicaychen/)
 
-### My favorite graphite drawing, photo, and Figma graphic:
+### My favorite graphite drawing and photo:
 
 <p align="center">
   <img src="/images/drawing.jpg"/>
@@ -21,8 +21,3 @@ I grew up drawing, and over the years, my love for capturing the essence of life
 <p align="center">
   <img src="/images/photo.jpg"/>
 </p>
-
-<p align="center">
-  <img src="/images/ginkgo.png"/>
-</p>
-
