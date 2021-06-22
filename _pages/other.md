@@ -15,9 +15,14 @@ You can check out some of my artwork here:
 - Photography: [here](https://photos.app.goo.gl/tAaBJyhz9UHkRSW79)
 - Drawing: [here](https://www.instagram.com/jessicaychen/)
 
-### My favorite photo, graphite drawing, and Figma graphic:
+### My favorite graphite drawing, photo, and Figma graphic:
 
 <p align="center">
   <img src="/images/drawing.jpg"/>
+
+
+<p align="center">
   <img src="/images/photo.jpg"/>
 </p>
+
+
