@@ -9,20 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-I grew up drawing, and over the years, my love for capturing the essence of life has evolved into landscape photography on nature walks and drawing from inspiration. 
-
-You can check out some of my artwork here:
-- Photography: [here](https://photos.app.goo.gl/tAaBJyhz9UHkRSW79)
-- Drawing: [here](https://www.instagram.com/jessicaychen/)
+I grew up drawing, and over the years, my love for capturing the essence of life has evolved into landscape photography on nature walks and drawing from inspiration. You can check out some of my artwork here:
+- [Photography](https://photos.app.goo.gl/tAaBJyhz9UHkRSW79)
+- [Drawing](https://www.instagram.com/jessicaychen/)
 
 ### My favorite graphite drawing, photo, and Figma graphic:
 
 <p align="center">
   <img src="/images/drawing.jpg"/>
 
-
 <p align="center">
   <img src="/images/photo.jpg"/>
 </p>
 
+<p align="center">
+  <img src="/images/ginkgo.png"/>
+</p>
 
