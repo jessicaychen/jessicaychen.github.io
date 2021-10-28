@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- :lungs: ***Graduate Researcher* @ [UCLA Medical & Imaging Informatics](https://mii.ucla.edu) (September 2021 - Present)**
+- 🫁 ***Graduate Researcher* @ [UCLA Medical & Imaging Informatics](https://mii.ucla.edu) (September 2021 - Present)**
   -  Currently developing a context-sensitive knowledge graph for non-small cell lung carcinoma through data mining and Protégé, optimized through constraints and queryable through a user interface using JavaScript.
 
 - 🧬 ***Data Science Intern* @ [Illumina](https://www.illumina.com) (June 2021 - August 2021)**
