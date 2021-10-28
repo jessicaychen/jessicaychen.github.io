@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior at UCLA studying Computational & Systems Biology while concurrently completing my Master's in Bioinformatics, expected grad Spring 2022.
+I am a senior at UCLA studying Computational & Systems Biology while concurrently completing my Master's in Bioinformatics, expected graduation Spring 2022.
 
 My research interests lie broadly in biomedical informatics and deep learning. Previously, I conducted research in two bioengineering labs where I became familiar with clinical processes and medical imaging studies. After a year of working at the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov) exploring object detection methods for first responder safety, I worked on facilitating the clinical trial enrollment pipeline through biomedical NLP research for the summer at [Illumina](https://www.illumina.com). Currently, I am using data mining techniques to build a context-sensitive knowledge graph for non-small cell lung carcinoma in the [UCLA Medical Imaging & Informatics](https://mii.ucla.edu) group.
 
