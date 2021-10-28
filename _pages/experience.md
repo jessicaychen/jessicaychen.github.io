@@ -9,8 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-- 🧬 ***Data Science Intern* @ [Illumina](https://www.illumina.com) (June 2021 - Present)**
-  - Extracting relevant information from biomedical texts through NLP techniques to facilitate the clinical trial enrollment pipeline.
+- 🧬 ***Graduate Researcher* @ [Medical Imaging Informatics](https://mii.ucla.edu) (September 2021 - Present)**
+  -  Currently developing a context-sensitive knowledge graph for non-small cell lung carcinoma through data mining and Protégé, optimized through constraints and queryable through a user interface using JavaScript.
+
+- 🧬 ***Data Science Intern* @ [Illumina](https://www.illumina.com) (June 2021 - August 2021)**
+  -  Implemented NLP pipelines with deep learning models from Spark NLP and custom heuristics to extract relevant entities from biomedical corpuses to facilitate the clinical trial enrollment pipeline, improving performance across all metrics by 25% for gene and mutation extractions.
+  - Classified drug efficacy based on biomedical texts with 97% accuracy using Scikit-learn.
 
 - :rocket: ***Research Intern* @ [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov) (November 2020 - May 2021)**
   - Worked on object detection using deep learning with CARLA, YOLO/SSD for advanced driver assistance systems for first responders.
