@@ -14,6 +14,4 @@ My research interests lie broadly in biomedical informatics and deep learning. P
 
 I also serve as the design director for the [Society of Women Engineers @ UCLA](https://www.swe.ucla.edu), where I advocate for accessibility and cohesiveness in branding. If I'm not working, I'm probably on a mountain or at IKEA. :relaxed:
 
-I am currently on the job market starting June 2022! 
-
 Feel free to reach me at jessicayqchen dot ucla dot edu. Click [here](/files/resume.pdf) to view my resume.
